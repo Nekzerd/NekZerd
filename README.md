@@ -1,3 +1,5 @@
+<img src="https://cdn.netglow.fr/github/backgroundbanner_git_profile.png">
+
 <h1 align="center">Nekzerd</h1>
 
 <p align="center">
